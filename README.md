@@ -2,7 +2,7 @@
 - 👀 I’m interested in Exploring New Programs 
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on React Projects
-- 📫 How to reach me https://www.linkedin.com/in/omsgawande/
+- 📫 How to reach me https://www.linkedin.com/in/om-cybersec-webdev/
 - 😄 Pronouns: Omi
 - ⚡ Fun fact: Web devlopement is like Painting the web with pixels and lines of code 🎨
 
